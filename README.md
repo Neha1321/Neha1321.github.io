@@ -23,9 +23,4 @@ Web & Mobile Development Task **#1**
 
 ## Hosting
 
-The project is hosted at https://cjbnk.000webhostapp.com/
-
-## Using the project
-
-The Unique IDs are present in the database, displayed on the '**View Customers**' page.<br>
-The default password for all users is '**password**'
+The project is hosted at https://neha1321.github.io/
